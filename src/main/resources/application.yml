@@ -1,8 +1,8 @@
 spring:
   application:
-    name: newsletter
+    name:
   cloud:
     gcp:
-      project-id: news-453001
+      project-id:
       pubsub:
         enabled: true
