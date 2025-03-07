@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: example --> Change this to your application name
+  cloud:
+    gcp:
+      project-id: example-152606 --> Change this to your project ID
+      pubsub:
+        enabled: true
