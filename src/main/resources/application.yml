@@ -1,8 +1,0 @@
-spring:
-  application:
-    name:
-  cloud:
-    gcp:
-      project-id:
-      pubsub:
-        enabled: true
